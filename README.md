@@ -1,4 +1,5 @@
 # Uso-paquete-camtrapR
+https://cran.r-project.org/web/packages/camtrapR/vignettes/camtrapr1.html
 ## Paquete "camtrapR"
 
 El paquete "camtrapR" fue desarrollado en el 2016, por un grupo de investigadores con el fin de facilitar una herramienta flexible y eficiente para el manejo de datos generados mediante cámaras trampa en estudios de vida silvestre (Niedballa et al. 2016). <https://besjournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.12600>
